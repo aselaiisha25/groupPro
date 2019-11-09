@@ -3,5 +3,7 @@ public class first {
 
         System.out.println("hello");
         System.out.println("goodbye");
+        System.out.println("ugh";
+     
     }
 }
